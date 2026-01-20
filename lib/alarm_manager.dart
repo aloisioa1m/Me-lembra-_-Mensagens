@@ -120,6 +120,7 @@ class AlarmManager {
   static Future<void> _repeatActivityCallback() async {
     print('🔔 Callback: Repetição de atividade a cada 2 horas');
   }
+  
 
   /// Calcula a próxima ocorrência de um horário específico
   static DateTime _getNextOccurrence(int hour, int minute) {
