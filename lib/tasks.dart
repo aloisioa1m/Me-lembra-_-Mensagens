@@ -1,0 +1,23 @@
+const List<String> stoicTasks = [
+  "Banho frio ao acordar. Entre sem hesitar. O desconforto é temporário. A disciplina permanece.",
+  "Coma apenas o necessário hoje. Elimine açúcar e excessos. Domine o impulso antes que ele te domine.",
+  "Realize 30 minutos de exercício físico desafiador. Suporte o desconforto. Preserve o corpo. Cumpra.",
+  "Jejum de redes sociais até o pôr do sol. Retome o controle da sua atenção.",
+  "Banho frio e dez minutos de silêncio absoluto. Observe a mente sem reagir.",
+  "Reduza o conforto ao mínimo. Durma sem travesseiro ou em superfície simples. Você precisa de menos do que imagina.",
+  "Caminhada longa em ritmo firme. Observe a natureza. Lembre-se da sua pequena posição no todo.",
+  "Pratique o silêncio. Fale apenas o necessário. Controle a língua para controlar a mente.",
+  "Liste seus problemas. Separe o que depende de você. Abandone o resto sem lamento.",
+  "Não reclame de nada hoje. Aceite cada obstáculo como treino de paciência.",
+  "Imagine a perda, a falha e o pior cenário possível. Observe que você ainda permanece.",
+  "Leia um texto de Sêneca ou Marco Aurélio. Reflita sobre a brevidade da vida.",
+  "Ajude alguém de forma anônima. A virtude não exige reconhecimento.",
+  "Identifique sua maior fraqueza. Hoje, aja um nível acima do seu padrão habitual.",
+  "Aceite o imprevisto de hoje com serenidade. Amor Fati. Foi exatamente assim que deveria acontecer.",
+  "Vista-se de forma simples. Não busque valor na aparência nem aprovação externa.",
+  "Lembre-se: você é mortal. Viva este dia com retidão, como se fosse o último.",
+  "Pratique empatia radical. Quem ofende age por ignorância, não por força.",
+  "Examine sua consciência. Escreva com honestidade onde falhou hoje.",
+  "Pratique austeridade total. Nenhum gasto com prazeres vazios. Invista apenas no que fortalece uma mente.",
+  "Reúna todas as lições. Escreva seu código pessoal de princípios. Prossiga como um homem disciplinado."
+];
