@@ -104,6 +104,13 @@ class _SettingsScreenState extends State<SettingsScreen> {
         title: const Text("Configurações"),
         backgroundColor: const Color(0xFF1A202E),
         elevation: 0,
+        leading: IconButton(
+          icon: const Icon(Icons.home),
+          onPressed: () {
+            Navigator.of(context).pop();
+          },
+          tooltip: "Voltar ao Home",
+        ),
       ),
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(20.0),

@@ -102,7 +102,7 @@ Future<void> stopBackgroundService() async {
   final service = FlutterBackgroundService();
   
   try {
-    await service.invoke('stopService');
+    service.invoke('stopService');
     await WakelockPlus.disable();
     print('✓ Serviço de background parado');
   } catch (e) {
